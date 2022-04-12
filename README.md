@@ -11,7 +11,7 @@ Since it's not always easy to decide how to best tell the story behind your data
 
 ## 1. Trends - A trend is defined as a pattern of change
 
-- sns.lineplot
+### sns.lineplot
 
 
 Line charts are best to show trends over a period of time, and multiple lines can be used to show trends in more than one group.
@@ -21,7 +21,7 @@ Line charts are best to show trends over a period of time, and multiple lines ca
 
 ## 2. Relationship - There are many different chart types that you can use to understand relationships between variables in your data.
 
-- sns.barplot
+### sns.barplot
 
 
 Bar charts are useful for comparing quantities corresponding to different groups.
@@ -29,7 +29,7 @@ Bar charts are useful for comparing quantities corresponding to different groups
 ![image](https://user-images.githubusercontent.com/68217111/162891841-2f14354b-9980-42ef-95dc-609d67747f87.png)
 
 
-- sns.heatmap
+### sns.heatmap
 
 
 Heatmaps can be used to find color-coded patterns in tables of numbers.
@@ -37,7 +37,7 @@ Heatmaps can be used to find color-coded patterns in tables of numbers.
 ![image](https://user-images.githubusercontent.com/68217111/162891863-527eb3d2-5593-48cb-8a68-e18df40aff11.png)
 
 
-- sns.scatterplot
+### sns.scatterplot
 
 
 Scatter plots show the relationship between two continuous variables; if color-coded, we can also show the relationship with a third categorical variable.
@@ -45,7 +45,7 @@ Scatter plots show the relationship between two continuous variables; if color-c
 ![image](https://user-images.githubusercontent.com/68217111/162892045-c4f77bcc-147a-41b7-9509-2cbc3d29a963.png)
 
 
-- sns.regplot
+### sns.regplot
 
 
 Including a regression line in the scatter plot makes it easier to see any linear relationship between two variables.
@@ -54,7 +54,7 @@ Including a regression line in the scatter plot makes it easier to see any linea
 
 
 
-- sns.lmplot
+### sns.lmplot
 
 
 This command is useful for drawing multiple regression lines, if the scatter plot contains multiple, color-coded groups.
@@ -62,7 +62,7 @@ This command is useful for drawing multiple regression lines, if the scatter plo
 ![image](https://user-images.githubusercontent.com/68217111/162892340-0280b8e4-1af8-4d17-afca-f672a08ad211.png)
 
 
-- sns.swarmplot
+### sns.swarmplot
 
 
 
