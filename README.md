@@ -10,7 +10,7 @@ Since it's not always easy to decide how to best tell the story behind your data
 
 ## 1. Trends - - A trend is defined as a pattern of change
 
-#### sns.lineplot
+- sns.lineplot
 Line charts are best to show trends over a period of time, and multiple lines can be used to show trends in more than one group.
   
 
