@@ -69,3 +69,33 @@ This command is useful for drawing multiple regression lines, if the scatter plo
 Categorical scatter plots show the relationship between a continuous variable and a categorical variable.
 
 ![image](https://user-images.githubusercontent.com/68217111/162892459-a73c51a7-c234-423a-9ace-4a1ed5db1980.png)
+
+
+## 3. Distribution - We visualize distributions to show the possible values that we can expect to see in a variable, along with how likely they are.
+
+
+### sns.distplot
+
+
+Histograms show the distribution of a single numerical variable.
+
+
+![image](https://user-images.githubusercontent.com/68217111/162892959-0b049c41-ef38-4d34-838e-a3f001f2945b.png)
+
+
+### sns.kdeplot
+
+
+KDE plots (or 2D KDE plots) show an estimated, smooth distribution of a single numerical variable (or two numerical variables).
+
+
+![image](https://user-images.githubusercontent.com/68217111/162893072-d968ff2d-2d9f-49e0-8a1c-cbc71365d989.png)
+
+
+### sns.jointplot
+This command is useful for simultaneously displaying a 2D KDE plot with the corresponding KDE plots for each individual variable.
+
+
+![image](https://user-images.githubusercontent.com/68217111/162893150-ecdf4e16-862d-4397-8c93-a2f75e499179.png)
+
+
