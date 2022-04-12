@@ -9,7 +9,9 @@ Since it's not always easy to decide how to best tell the story behind your data
 
 
 ## 1. Trends - - A trend is defined as a pattern of change
-- sns.lineplot : Line charts are best to show trends over a period of time, and multiple lines can be used to show trends in more than one group.
+
+#### sns.lineplot
+Line charts are best to show trends over a period of time, and multiple lines can be used to show trends in more than one group.
   
 
 ## 2. Relationship - There are many different chart types that you can use to understand relationships between variables in your data.
